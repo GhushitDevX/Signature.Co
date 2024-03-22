@@ -401,7 +401,7 @@ color:white;
   }
   
   .background-image {
-    background-image: url('/Users/ghushitkumarchutia/Documents/HTML/pexels-mikky-k-625644.jpg');
+    background-image: url('photo3.jpg');
     background-size: cover; /* Adjust to cover entire container */
     background-position: center; /* Adjust position if necessary */
     color: #fff; /* Text color */
